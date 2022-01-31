@@ -1,0 +1,35 @@
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\conectando com mysql.exe
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\conectando com mysql.deps.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\conectando com mysql.runtimeconfig.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\conectando com mysql.runtimeconfig.dev.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\conectando com mysql.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\conectando com mysql.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\obj\Debug\netcoreapp3.1\conectando com mysql.csproj.AssemblyReference.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\obj\Debug\netcoreapp3.1\conectando com mysql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\obj\Debug\netcoreapp3.1\conectando com mysql.AssemblyInfoInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\obj\Debug\netcoreapp3.1\conectando com mysql.AssemblyInfo.cs
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\obj\Debug\netcoreapp3.1\conectando com mysql.csproj.CoreCompileInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\obj\Debug\netcoreapp3.1\conectando com mysql.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\obj\Debug\netcoreapp3.1\conectando com mysql.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\obj\Debug\netcoreapp3.1\conectando com mysql.genruntimeconfig.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\conectando com mysql\conectando com mysql\obj\Debug\netcoreapp3.1\conectando com mysql.csproj.CopyComplete

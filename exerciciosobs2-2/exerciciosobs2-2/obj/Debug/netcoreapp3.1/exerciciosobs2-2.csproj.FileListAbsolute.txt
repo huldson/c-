@@ -1,0 +1,14 @@
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobs2-2\exerciciosobs2-2\bin\Debug\netcoreapp3.1\exerciciosobs2-2.exe
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobs2-2\exerciciosobs2-2\bin\Debug\netcoreapp3.1\exerciciosobs2-2.deps.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobs2-2\exerciciosobs2-2\bin\Debug\netcoreapp3.1\exerciciosobs2-2.runtimeconfig.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobs2-2\exerciciosobs2-2\bin\Debug\netcoreapp3.1\exerciciosobs2-2.runtimeconfig.dev.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobs2-2\exerciciosobs2-2\bin\Debug\netcoreapp3.1\exerciciosobs2-2.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobs2-2\exerciciosobs2-2\bin\Debug\netcoreapp3.1\exerciciosobs2-2.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobs2-2\exerciciosobs2-2\obj\Debug\netcoreapp3.1\exerciciosobs2-2.csproj.AssemblyReference.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobs2-2\exerciciosobs2-2\obj\Debug\netcoreapp3.1\exerciciosobs2-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobs2-2\exerciciosobs2-2\obj\Debug\netcoreapp3.1\exerciciosobs2-2.AssemblyInfoInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobs2-2\exerciciosobs2-2\obj\Debug\netcoreapp3.1\exerciciosobs2-2.AssemblyInfo.cs
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobs2-2\exerciciosobs2-2\obj\Debug\netcoreapp3.1\exerciciosobs2-2.csproj.CoreCompileInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobs2-2\exerciciosobs2-2\obj\Debug\netcoreapp3.1\exerciciosobs2-2.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobs2-2\exerciciosobs2-2\obj\Debug\netcoreapp3.1\exerciciosobs2-2.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobs2-2\exerciciosobs2-2\obj\Debug\netcoreapp3.1\exerciciosobs2-2.genruntimeconfig.cache

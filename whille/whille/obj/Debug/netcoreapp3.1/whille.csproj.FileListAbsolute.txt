@@ -1,0 +1,14 @@
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\whille\whille\bin\Debug\netcoreapp3.1\whille.exe
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\whille\whille\bin\Debug\netcoreapp3.1\whille.deps.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\whille\whille\bin\Debug\netcoreapp3.1\whille.runtimeconfig.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\whille\whille\bin\Debug\netcoreapp3.1\whille.runtimeconfig.dev.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\whille\whille\bin\Debug\netcoreapp3.1\whille.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\whille\whille\bin\Debug\netcoreapp3.1\whille.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\whille\whille\obj\Debug\netcoreapp3.1\whille.csproj.AssemblyReference.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\whille\whille\obj\Debug\netcoreapp3.1\whille.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\whille\whille\obj\Debug\netcoreapp3.1\whille.AssemblyInfoInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\whille\whille\obj\Debug\netcoreapp3.1\whille.AssemblyInfo.cs
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\whille\whille\obj\Debug\netcoreapp3.1\whille.csproj.CoreCompileInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\whille\whille\obj\Debug\netcoreapp3.1\whille.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\whille\whille\obj\Debug\netcoreapp3.1\whille.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\whille\whille\obj\Debug\netcoreapp3.1\whille.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\hulds\source\repos\entradadedados\entradadedados\bin\Debug\netcoreapp3.1\entradadedados.exe
+C:\Users\hulds\source\repos\entradadedados\entradadedados\bin\Debug\netcoreapp3.1\entradadedados.deps.json
+C:\Users\hulds\source\repos\entradadedados\entradadedados\bin\Debug\netcoreapp3.1\entradadedados.runtimeconfig.json
+C:\Users\hulds\source\repos\entradadedados\entradadedados\bin\Debug\netcoreapp3.1\entradadedados.runtimeconfig.dev.json
+C:\Users\hulds\source\repos\entradadedados\entradadedados\bin\Debug\netcoreapp3.1\entradadedados.dll
+C:\Users\hulds\source\repos\entradadedados\entradadedados\bin\Debug\netcoreapp3.1\entradadedados.pdb
+C:\Users\hulds\source\repos\entradadedados\entradadedados\obj\Debug\netcoreapp3.1\entradadedados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\source\repos\entradadedados\entradadedados\obj\Debug\netcoreapp3.1\entradadedados.AssemblyInfoInputs.cache
+C:\Users\hulds\source\repos\entradadedados\entradadedados\obj\Debug\netcoreapp3.1\entradadedados.AssemblyInfo.cs
+C:\Users\hulds\source\repos\entradadedados\entradadedados\obj\Debug\netcoreapp3.1\entradadedados.csproj.CoreCompileInputs.cache
+C:\Users\hulds\source\repos\entradadedados\entradadedados\obj\Debug\netcoreapp3.1\entradadedados.dll
+C:\Users\hulds\source\repos\entradadedados\entradadedados\obj\Debug\netcoreapp3.1\entradadedados.pdb
+C:\Users\hulds\source\repos\entradadedados\entradadedados\obj\Debug\netcoreapp3.1\entradadedados.genruntimeconfig.cache
+C:\Users\hulds\source\repos\entradadedados\entradadedados\obj\Debug\netcoreapp3.1\entradadedados.csproj.AssemblyReference.cache

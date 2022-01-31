@@ -1,0 +1,14 @@
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobjs\exerciciosobjs\bin\Debug\netcoreapp3.1\exerciciosobjs.exe
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobjs\exerciciosobjs\bin\Debug\netcoreapp3.1\exerciciosobjs.deps.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobjs\exerciciosobjs\bin\Debug\netcoreapp3.1\exerciciosobjs.runtimeconfig.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobjs\exerciciosobjs\bin\Debug\netcoreapp3.1\exerciciosobjs.runtimeconfig.dev.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobjs\exerciciosobjs\bin\Debug\netcoreapp3.1\exerciciosobjs.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobjs\exerciciosobjs\bin\Debug\netcoreapp3.1\exerciciosobjs.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobjs\exerciciosobjs\obj\Debug\netcoreapp3.1\exerciciosobjs.csproj.AssemblyReference.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobjs\exerciciosobjs\obj\Debug\netcoreapp3.1\exerciciosobjs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobjs\exerciciosobjs\obj\Debug\netcoreapp3.1\exerciciosobjs.AssemblyInfoInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobjs\exerciciosobjs\obj\Debug\netcoreapp3.1\exerciciosobjs.AssemblyInfo.cs
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobjs\exerciciosobjs\obj\Debug\netcoreapp3.1\exerciciosobjs.csproj.CoreCompileInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobjs\exerciciosobjs\obj\Debug\netcoreapp3.1\exerciciosobjs.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobjs\exerciciosobjs\obj\Debug\netcoreapp3.1\exerciciosobjs.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosobjs\exerciciosobjs\obj\Debug\netcoreapp3.1\exerciciosobjs.genruntimeconfig.cache

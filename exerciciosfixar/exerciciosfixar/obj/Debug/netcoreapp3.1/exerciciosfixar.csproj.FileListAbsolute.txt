@@ -1,0 +1,14 @@
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosfixar\exerciciosfixar\bin\Debug\netcoreapp3.1\exerciciosfixar.exe
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosfixar\exerciciosfixar\bin\Debug\netcoreapp3.1\exerciciosfixar.deps.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosfixar\exerciciosfixar\bin\Debug\netcoreapp3.1\exerciciosfixar.runtimeconfig.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosfixar\exerciciosfixar\bin\Debug\netcoreapp3.1\exerciciosfixar.runtimeconfig.dev.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosfixar\exerciciosfixar\bin\Debug\netcoreapp3.1\exerciciosfixar.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosfixar\exerciciosfixar\bin\Debug\netcoreapp3.1\exerciciosfixar.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosfixar\exerciciosfixar\obj\Debug\netcoreapp3.1\exerciciosfixar.csproj.AssemblyReference.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosfixar\exerciciosfixar\obj\Debug\netcoreapp3.1\exerciciosfixar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosfixar\exerciciosfixar\obj\Debug\netcoreapp3.1\exerciciosfixar.AssemblyInfoInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosfixar\exerciciosfixar\obj\Debug\netcoreapp3.1\exerciciosfixar.AssemblyInfo.cs
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosfixar\exerciciosfixar\obj\Debug\netcoreapp3.1\exerciciosfixar.csproj.CoreCompileInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosfixar\exerciciosfixar\obj\Debug\netcoreapp3.1\exerciciosfixar.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosfixar\exerciciosfixar\obj\Debug\netcoreapp3.1\exerciciosfixar.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciosfixar\exerciciosfixar\obj\Debug\netcoreapp3.1\exerciciosfixar.genruntimeconfig.cache

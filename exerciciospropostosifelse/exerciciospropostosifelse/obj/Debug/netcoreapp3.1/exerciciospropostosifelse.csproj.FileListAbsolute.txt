@@ -1,0 +1,14 @@
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciospropostosifelse\exerciciospropostosifelse\bin\Debug\netcoreapp3.1\exerciciospropostosifelse.exe
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciospropostosifelse\exerciciospropostosifelse\bin\Debug\netcoreapp3.1\exerciciospropostosifelse.deps.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciospropostosifelse\exerciciospropostosifelse\bin\Debug\netcoreapp3.1\exerciciospropostosifelse.runtimeconfig.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciospropostosifelse\exerciciospropostosifelse\bin\Debug\netcoreapp3.1\exerciciospropostosifelse.runtimeconfig.dev.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciospropostosifelse\exerciciospropostosifelse\bin\Debug\netcoreapp3.1\exerciciospropostosifelse.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciospropostosifelse\exerciciospropostosifelse\bin\Debug\netcoreapp3.1\exerciciospropostosifelse.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciospropostosifelse\exerciciospropostosifelse\obj\Debug\netcoreapp3.1\exerciciospropostosifelse.csproj.AssemblyReference.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciospropostosifelse\exerciciospropostosifelse\obj\Debug\netcoreapp3.1\exerciciospropostosifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciospropostosifelse\exerciciospropostosifelse\obj\Debug\netcoreapp3.1\exerciciospropostosifelse.AssemblyInfoInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciospropostosifelse\exerciciospropostosifelse\obj\Debug\netcoreapp3.1\exerciciospropostosifelse.AssemblyInfo.cs
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciospropostosifelse\exerciciospropostosifelse\obj\Debug\netcoreapp3.1\exerciciospropostosifelse.csproj.CoreCompileInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciospropostosifelse\exerciciospropostosifelse\obj\Debug\netcoreapp3.1\exerciciospropostosifelse.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciospropostosifelse\exerciciospropostosifelse\obj\Debug\netcoreapp3.1\exerciciospropostosifelse.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exerciciospropostosifelse\exerciciospropostosifelse\obj\Debug\netcoreapp3.1\exerciciospropostosifelse.genruntimeconfig.cache

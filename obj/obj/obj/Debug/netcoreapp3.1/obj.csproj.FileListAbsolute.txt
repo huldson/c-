@@ -1,0 +1,14 @@
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\obj\obj\bin\Debug\netcoreapp3.1\obj.exe
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\obj\obj\bin\Debug\netcoreapp3.1\obj.deps.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\obj\obj\bin\Debug\netcoreapp3.1\obj.runtimeconfig.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\obj\obj\bin\Debug\netcoreapp3.1\obj.runtimeconfig.dev.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\obj\obj\bin\Debug\netcoreapp3.1\obj.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\obj\obj\bin\Debug\netcoreapp3.1\obj.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\obj\obj\obj\Debug\netcoreapp3.1\obj.csproj.AssemblyReference.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\obj\obj\obj\Debug\netcoreapp3.1\obj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\obj\obj\obj\Debug\netcoreapp3.1\obj.AssemblyInfoInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\obj\obj\obj\Debug\netcoreapp3.1\obj.AssemblyInfo.cs
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\obj\obj\obj\Debug\netcoreapp3.1\obj.csproj.CoreCompileInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\obj\obj\obj\Debug\netcoreapp3.1\obj.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\obj\obj\obj\Debug\netcoreapp3.1\obj.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\obj\obj\obj\Debug\netcoreapp3.1\obj.genruntimeconfig.cache

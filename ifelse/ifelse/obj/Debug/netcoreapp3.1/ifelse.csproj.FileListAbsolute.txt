@@ -1,0 +1,5 @@
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\ifelse\ifelse\obj\Debug\netcoreapp3.1\ifelse.csproj.AssemblyReference.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\ifelse\ifelse\obj\Debug\netcoreapp3.1\ifelse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\ifelse\ifelse\obj\Debug\netcoreapp3.1\ifelse.AssemblyInfoInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\ifelse\ifelse\obj\Debug\netcoreapp3.1\ifelse.AssemblyInfo.cs
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\ifelse\ifelse\obj\Debug\netcoreapp3.1\ifelse.csproj.CoreCompileInputs.cache

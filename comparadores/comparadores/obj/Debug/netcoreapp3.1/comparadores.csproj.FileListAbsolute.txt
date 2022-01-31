@@ -1,0 +1,14 @@
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\comparadores\comparadores\bin\Debug\netcoreapp3.1\comparadores.exe
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\comparadores\comparadores\bin\Debug\netcoreapp3.1\comparadores.deps.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\comparadores\comparadores\bin\Debug\netcoreapp3.1\comparadores.runtimeconfig.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\comparadores\comparadores\bin\Debug\netcoreapp3.1\comparadores.runtimeconfig.dev.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\comparadores\comparadores\bin\Debug\netcoreapp3.1\comparadores.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\comparadores\comparadores\bin\Debug\netcoreapp3.1\comparadores.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\comparadores\comparadores\obj\Debug\netcoreapp3.1\comparadores.csproj.AssemblyReference.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\comparadores\comparadores\obj\Debug\netcoreapp3.1\comparadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\comparadores\comparadores\obj\Debug\netcoreapp3.1\comparadores.AssemblyInfoInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\comparadores\comparadores\obj\Debug\netcoreapp3.1\comparadores.AssemblyInfo.cs
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\comparadores\comparadores\obj\Debug\netcoreapp3.1\comparadores.csproj.CoreCompileInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\comparadores\comparadores\obj\Debug\netcoreapp3.1\comparadores.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\comparadores\comparadores\obj\Debug\netcoreapp3.1\comparadores.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\comparadores\comparadores\obj\Debug\netcoreapp3.1\comparadores.genruntimeconfig.cache

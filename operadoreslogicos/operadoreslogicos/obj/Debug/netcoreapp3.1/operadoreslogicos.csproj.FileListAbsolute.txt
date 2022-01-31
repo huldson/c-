@@ -1,0 +1,14 @@
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\operadoreslogicos\operadoreslogicos\bin\Debug\netcoreapp3.1\operadoreslogicos.exe
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\operadoreslogicos\operadoreslogicos\bin\Debug\netcoreapp3.1\operadoreslogicos.deps.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\operadoreslogicos\operadoreslogicos\bin\Debug\netcoreapp3.1\operadoreslogicos.runtimeconfig.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\operadoreslogicos\operadoreslogicos\bin\Debug\netcoreapp3.1\operadoreslogicos.runtimeconfig.dev.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\operadoreslogicos\operadoreslogicos\bin\Debug\netcoreapp3.1\operadoreslogicos.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\operadoreslogicos\operadoreslogicos\bin\Debug\netcoreapp3.1\operadoreslogicos.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\operadoreslogicos\operadoreslogicos\obj\Debug\netcoreapp3.1\operadoreslogicos.csproj.AssemblyReference.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\operadoreslogicos\operadoreslogicos\obj\Debug\netcoreapp3.1\operadoreslogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\operadoreslogicos\operadoreslogicos\obj\Debug\netcoreapp3.1\operadoreslogicos.AssemblyInfoInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\operadoreslogicos\operadoreslogicos\obj\Debug\netcoreapp3.1\operadoreslogicos.AssemblyInfo.cs
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\operadoreslogicos\operadoreslogicos\obj\Debug\netcoreapp3.1\operadoreslogicos.csproj.CoreCompileInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\operadoreslogicos\operadoreslogicos\obj\Debug\netcoreapp3.1\operadoreslogicos.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\operadoreslogicos\operadoreslogicos\obj\Debug\netcoreapp3.1\operadoreslogicos.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\operadoreslogicos\operadoreslogicos\obj\Debug\netcoreapp3.1\operadoreslogicos.genruntimeconfig.cache

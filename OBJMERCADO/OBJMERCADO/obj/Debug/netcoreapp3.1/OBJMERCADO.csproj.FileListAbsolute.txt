@@ -1,0 +1,14 @@
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\OBJMERCADO\OBJMERCADO\bin\Debug\netcoreapp3.1\OBJMERCADO.exe
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\OBJMERCADO\OBJMERCADO\bin\Debug\netcoreapp3.1\OBJMERCADO.deps.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\OBJMERCADO\OBJMERCADO\bin\Debug\netcoreapp3.1\OBJMERCADO.runtimeconfig.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\OBJMERCADO\OBJMERCADO\bin\Debug\netcoreapp3.1\OBJMERCADO.runtimeconfig.dev.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\OBJMERCADO\OBJMERCADO\bin\Debug\netcoreapp3.1\OBJMERCADO.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\OBJMERCADO\OBJMERCADO\bin\Debug\netcoreapp3.1\OBJMERCADO.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\OBJMERCADO\OBJMERCADO\obj\Debug\netcoreapp3.1\OBJMERCADO.csproj.AssemblyReference.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\OBJMERCADO\OBJMERCADO\obj\Debug\netcoreapp3.1\OBJMERCADO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\OBJMERCADO\OBJMERCADO\obj\Debug\netcoreapp3.1\OBJMERCADO.AssemblyInfoInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\OBJMERCADO\OBJMERCADO\obj\Debug\netcoreapp3.1\OBJMERCADO.AssemblyInfo.cs
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\OBJMERCADO\OBJMERCADO\obj\Debug\netcoreapp3.1\OBJMERCADO.csproj.CoreCompileInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\OBJMERCADO\OBJMERCADO\obj\Debug\netcoreapp3.1\OBJMERCADO.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\OBJMERCADO\OBJMERCADO\obj\Debug\netcoreapp3.1\OBJMERCADO.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\OBJMERCADO\OBJMERCADO\obj\Debug\netcoreapp3.1\OBJMERCADO.genruntimeconfig.cache

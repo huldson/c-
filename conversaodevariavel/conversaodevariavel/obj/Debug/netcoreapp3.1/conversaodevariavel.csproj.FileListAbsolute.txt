@@ -1,0 +1,14 @@
+C:\Users\hulds\source\repos\conversaodevariavel\conversaodevariavel\bin\Debug\netcoreapp3.1\conversaodevariavel.exe
+C:\Users\hulds\source\repos\conversaodevariavel\conversaodevariavel\bin\Debug\netcoreapp3.1\conversaodevariavel.deps.json
+C:\Users\hulds\source\repos\conversaodevariavel\conversaodevariavel\bin\Debug\netcoreapp3.1\conversaodevariavel.runtimeconfig.json
+C:\Users\hulds\source\repos\conversaodevariavel\conversaodevariavel\bin\Debug\netcoreapp3.1\conversaodevariavel.runtimeconfig.dev.json
+C:\Users\hulds\source\repos\conversaodevariavel\conversaodevariavel\bin\Debug\netcoreapp3.1\conversaodevariavel.dll
+C:\Users\hulds\source\repos\conversaodevariavel\conversaodevariavel\bin\Debug\netcoreapp3.1\conversaodevariavel.pdb
+C:\Users\hulds\source\repos\conversaodevariavel\conversaodevariavel\obj\Debug\netcoreapp3.1\conversaodevariavel.csproj.AssemblyReference.cache
+C:\Users\hulds\source\repos\conversaodevariavel\conversaodevariavel\obj\Debug\netcoreapp3.1\conversaodevariavel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\source\repos\conversaodevariavel\conversaodevariavel\obj\Debug\netcoreapp3.1\conversaodevariavel.AssemblyInfoInputs.cache
+C:\Users\hulds\source\repos\conversaodevariavel\conversaodevariavel\obj\Debug\netcoreapp3.1\conversaodevariavel.AssemblyInfo.cs
+C:\Users\hulds\source\repos\conversaodevariavel\conversaodevariavel\obj\Debug\netcoreapp3.1\conversaodevariavel.csproj.CoreCompileInputs.cache
+C:\Users\hulds\source\repos\conversaodevariavel\conversaodevariavel\obj\Debug\netcoreapp3.1\conversaodevariavel.dll
+C:\Users\hulds\source\repos\conversaodevariavel\conversaodevariavel\obj\Debug\netcoreapp3.1\conversaodevariavel.pdb
+C:\Users\hulds\source\repos\conversaodevariavel\conversaodevariavel\obj\Debug\netcoreapp3.1\conversaodevariavel.genruntimeconfig.cache

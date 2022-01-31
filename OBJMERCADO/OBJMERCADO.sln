@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OBJMERCADO", "OBJMERCADO\OBJMERCADO.csproj", "{AC555830-1095-4BA1-8286-933B59F2D3CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC555830-1095-4BA1-8286-933B59F2D3CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC555830-1095-4BA1-8286-933B59F2D3CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC555830-1095-4BA1-8286-933B59F2D3CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC555830-1095-4BA1-8286-933B59F2D3CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {177F0BCD-5DEF-4173-AC68-1364F438AC71}
+	EndGlobalSection
+EndGlobal

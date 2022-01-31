@@ -1,0 +1,14 @@
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exepropostosestrusequencial\exepropostosestrusequencial\bin\Debug\netcoreapp3.1\exepropostosestrusequencial.exe
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exepropostosestrusequencial\exepropostosestrusequencial\bin\Debug\netcoreapp3.1\exepropostosestrusequencial.deps.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exepropostosestrusequencial\exepropostosestrusequencial\bin\Debug\netcoreapp3.1\exepropostosestrusequencial.runtimeconfig.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exepropostosestrusequencial\exepropostosestrusequencial\bin\Debug\netcoreapp3.1\exepropostosestrusequencial.runtimeconfig.dev.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exepropostosestrusequencial\exepropostosestrusequencial\bin\Debug\netcoreapp3.1\exepropostosestrusequencial.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exepropostosestrusequencial\exepropostosestrusequencial\bin\Debug\netcoreapp3.1\exepropostosestrusequencial.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exepropostosestrusequencial\exepropostosestrusequencial\obj\Debug\netcoreapp3.1\exepropostosestrusequencial.csproj.AssemblyReference.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exepropostosestrusequencial\exepropostosestrusequencial\obj\Debug\netcoreapp3.1\exepropostosestrusequencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exepropostosestrusequencial\exepropostosestrusequencial\obj\Debug\netcoreapp3.1\exepropostosestrusequencial.AssemblyInfoInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exepropostosestrusequencial\exepropostosestrusequencial\obj\Debug\netcoreapp3.1\exepropostosestrusequencial.AssemblyInfo.cs
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exepropostosestrusequencial\exepropostosestrusequencial\obj\Debug\netcoreapp3.1\exepropostosestrusequencial.csproj.CoreCompileInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exepropostosestrusequencial\exepropostosestrusequencial\obj\Debug\netcoreapp3.1\exepropostosestrusequencial.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exepropostosestrusequencial\exepropostosestrusequencial\obj\Debug\netcoreapp3.1\exepropostosestrusequencial.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\exepropostosestrusequencial\exepropostosestrusequencial\obj\Debug\netcoreapp3.1\exepropostosestrusequencial.genruntimeconfig.cache

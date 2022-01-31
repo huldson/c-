@@ -1,0 +1,13 @@
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\ifesle1\ifesle1\obj\Debug\netcoreapp3.1\ifesle1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\ifesle1\ifesle1\obj\Debug\netcoreapp3.1\ifesle1.AssemblyInfoInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\ifesle1\ifesle1\obj\Debug\netcoreapp3.1\ifesle1.AssemblyInfo.cs
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\ifesle1\ifesle1\obj\Debug\netcoreapp3.1\ifesle1.csproj.CoreCompileInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\ifesle1\ifesle1\bin\Debug\netcoreapp3.1\ifesle1.exe
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\ifesle1\ifesle1\bin\Debug\netcoreapp3.1\ifesle1.deps.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\ifesle1\ifesle1\bin\Debug\netcoreapp3.1\ifesle1.runtimeconfig.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\ifesle1\ifesle1\bin\Debug\netcoreapp3.1\ifesle1.runtimeconfig.dev.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\ifesle1\ifesle1\bin\Debug\netcoreapp3.1\ifesle1.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\ifesle1\ifesle1\bin\Debug\netcoreapp3.1\ifesle1.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\ifesle1\ifesle1\obj\Debug\netcoreapp3.1\ifesle1.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\ifesle1\ifesle1\obj\Debug\netcoreapp3.1\ifesle1.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\ifesle1\ifesle1\obj\Debug\netcoreapp3.1\ifesle1.genruntimeconfig.cache

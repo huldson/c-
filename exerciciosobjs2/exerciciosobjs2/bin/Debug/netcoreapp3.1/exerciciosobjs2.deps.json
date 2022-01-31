@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "exerciciosobjs2/1.0.0": {
+        "runtime": {
+          "exerciciosobjs2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exerciciosobjs2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

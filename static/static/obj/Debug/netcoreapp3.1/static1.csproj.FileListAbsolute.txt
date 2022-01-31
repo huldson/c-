@@ -1,0 +1,13 @@
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\static\static\bin\Debug\netcoreapp3.1\static1.exe
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\static\static\bin\Debug\netcoreapp3.1\static1.deps.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\static\static\bin\Debug\netcoreapp3.1\static1.runtimeconfig.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\static\static\bin\Debug\netcoreapp3.1\static1.runtimeconfig.dev.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\static\static\bin\Debug\netcoreapp3.1\static1.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\static\static\bin\Debug\netcoreapp3.1\static1.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\static\static\obj\Debug\netcoreapp3.1\static1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\static\static\obj\Debug\netcoreapp3.1\static1.AssemblyInfoInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\static\static\obj\Debug\netcoreapp3.1\static1.AssemblyInfo.cs
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\static\static\obj\Debug\netcoreapp3.1\static1.csproj.CoreCompileInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\static\static\obj\Debug\netcoreapp3.1\static1.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\static\static\obj\Debug\netcoreapp3.1\static1.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\static\static\obj\Debug\netcoreapp3.1\static1.genruntimeconfig.cache

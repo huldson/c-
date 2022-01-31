@@ -1,0 +1,14 @@
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\variaveisjuntas\variaveisjuntas\bin\Debug\netcoreapp3.1\variaveisjuntas.exe
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\variaveisjuntas\variaveisjuntas\bin\Debug\netcoreapp3.1\variaveisjuntas.deps.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\variaveisjuntas\variaveisjuntas\bin\Debug\netcoreapp3.1\variaveisjuntas.runtimeconfig.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\variaveisjuntas\variaveisjuntas\bin\Debug\netcoreapp3.1\variaveisjuntas.runtimeconfig.dev.json
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\variaveisjuntas\variaveisjuntas\bin\Debug\netcoreapp3.1\variaveisjuntas.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\variaveisjuntas\variaveisjuntas\bin\Debug\netcoreapp3.1\variaveisjuntas.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\variaveisjuntas\variaveisjuntas\obj\Debug\netcoreapp3.1\variaveisjuntas.csproj.AssemblyReference.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\variaveisjuntas\variaveisjuntas\obj\Debug\netcoreapp3.1\variaveisjuntas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\variaveisjuntas\variaveisjuntas\obj\Debug\netcoreapp3.1\variaveisjuntas.AssemblyInfoInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\variaveisjuntas\variaveisjuntas\obj\Debug\netcoreapp3.1\variaveisjuntas.AssemblyInfo.cs
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\variaveisjuntas\variaveisjuntas\obj\Debug\netcoreapp3.1\variaveisjuntas.csproj.CoreCompileInputs.cache
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\variaveisjuntas\variaveisjuntas\obj\Debug\netcoreapp3.1\variaveisjuntas.dll
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\variaveisjuntas\variaveisjuntas\obj\Debug\netcoreapp3.1\variaveisjuntas.pdb
+C:\Users\hulds\OneDrive\Área de Trabalho\c#\variaveisjuntas\variaveisjuntas\obj\Debug\netcoreapp3.1\variaveisjuntas.genruntimeconfig.cache
